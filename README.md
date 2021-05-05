@@ -39,7 +39,7 @@ Generate the build system using [CMake](https://cmake.org/) from the solution ro
 ```bash
 mkdir build
 cd build
-cmake -G "Visual Studio 16.9 2019" -A "x64" ..
+cmake -G "Visual Studio 16 2019" -A "x64" ..
 ```
 
 ### Compiling, linking, etc.
